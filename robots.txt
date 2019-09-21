@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eequohrai.passionforcode.eu/sitemap.xml
